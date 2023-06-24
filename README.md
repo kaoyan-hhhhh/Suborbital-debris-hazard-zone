@@ -1,2 +1,2 @@
 # Suborbital-debris-hazard-zone
-Decision options for civil aircraft to avoid dynamic suborbital debris hazard zones
+《PLOS ONE》PONE-D-23-14745：Dynamic avoidance decision method for civil aircraft in a suborbital debris hazard zone
